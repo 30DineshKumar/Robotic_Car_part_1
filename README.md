@@ -100,7 +100,7 @@ Contributions, issues and feature requests are welcome! Feel free to open an iss
 
 ##  License
 
-Apache-2.0
+See the [LICENSE](LICENSE) file.
 
 ##  Author
 
